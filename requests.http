@@ -4,3 +4,17 @@ GET http://localhost:8080
 ###
 
 GET http://localhost:8080/api/v1software-engineers
+
+###
+
+GET http://localhost:8080/api/v1software-engineers/3
+
+###
+
+POST http://localhost:8080/api/v1software-engineers
+Content-Type: application/json
+
+{
+  "name": "Wahura",
+  "techStack": "comp packages, nursing"
+}
