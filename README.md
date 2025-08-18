@@ -13,7 +13,7 @@ The API supports full **CRUD** operations — `GET`, `POST`, `PUT`, and `DELETE`
 - **PostgreSQL** database running in Docker
 - **Spring Data JPA** for ORM and database queries
 - **OpenAI API integration** for AI-powered responses
-- **Maven** build tool
+- **Gradle** build tool
 - **Java 21** support
 - **Testable, clean, and scalable** architecture
 
@@ -25,7 +25,7 @@ The API supports full **CRUD** operations — `GET`, `POST`, `PUT`, and `DELETE`
 - [Spring Data JPA](https://spring.io/projects/spring-data-jpa)
 - [PostgreSQL](https://www.postgresql.org/)
 - [Docker](https://www.docker.com/) & [Docker Compose](https://docs.docker.com/compose/)
-- [Maven](https://maven.apache.org/)
+- [Gradle](https://maven.apache.org/)
 - [OpenAI API](https://platform.openai.com/)
 
 ---
