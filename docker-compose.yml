@@ -5,6 +5,7 @@ services:
     environment:
       POSTGRES_USER: briancode
       POSTGRES_PASSWORD: password
+      POSTGRES_DB: brian #auto-create the database
       PGDATA: /data/postgres
     volumes:
       - db:/data/postgres
